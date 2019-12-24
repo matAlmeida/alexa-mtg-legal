@@ -4,7 +4,7 @@
 
 ## This skill is live at
 
-`[Amazon](https://www.amazon.com/This-card-legal-Magic-Gathering/dp/B0814B7YYL/)`
+### [Amazon](https://www.amazon.com/This-card-legal-Magic-Gathering/dp/B0814B7YYL/)
 
 ## Example Phrases
 
